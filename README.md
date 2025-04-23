@@ -9,9 +9,9 @@ This repository was created for a data exploration project using Python and pand
 ## What is the purpose of this repository?
 The goal of this project is to explore how occupations among astronauts vary by gender. After filtering the dataset by gender, we created counts of each unique occupation for males and females, then combined that information into a single, clean table for easier analysis or visualization.
 This kind of exploration can:
-*Give insight into gender representation in space-related careers
-*Help anyone interested in gender equity in STEM fields
-*Provide a beginner-friendly Python example of subsetting and value counting using `pandas`
+* Give insight into gender representation in space-related careers
+* Help anyone interested in gender equity in STEM fields
+* Provide a beginner-friendly Python example of subsetting and value counting using `pandas`
 
 ## Where did the data come from?
 The data in this project comes from **Tidy Tuesday**, a weekly social data project hosted in the [R4DS (R for Data Science) GitHub repository](https://github.com/rfordatascience/tidytuesday). Each week, they release a new, publicly available dataset to encourage data exploration, visualization, and storytelling.
