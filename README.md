@@ -22,3 +22,4 @@ To highlight differences in astronaut occupations by gender, a **side-by-side ba
 The chart visually supports the analysis by making gendered trends in occupation more apparent at a glance.
 ### Gender Distribution of Astronaut Occupations
 umm insert pic here
+>Bar Chart created with Tableau
