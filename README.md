@@ -2,7 +2,7 @@
 This repository was created for a data exploration project using Python and pandas, based on a dataset originally provided by Tidy Tuesday. It focuses on breaking down astronaut occupation data by gender, then counting and comparing how often each occupation appears for male vs. female astronauts.
 
 ## What's in this repository?
-*`astronauts.csv` – the original raw dataset from Tidy Tuesday
+* `astronauts.csv` – the original raw dataset from Tidy Tuesday
 * `Sex_Occupation_Counts.csv` – a cleaned, subsetted version of the data that shows a count of occupations separated by gender
 * A Python notebook documenting each step used to process and clean the data
 
