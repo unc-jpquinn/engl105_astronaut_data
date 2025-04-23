@@ -21,4 +21,4 @@ The data in this project comes from **Tidy Tuesday**, a weekly social data proje
 To highlight differences in astronaut occupations by gender, a **side-by-side bar chart** was created using **Tableau**. This visualization allows for an easy comparison of how frequently different occupations appear among male and female astronauts in the dataset.
 The chart visually supports the analysis by making gendered trends in occupation more apparent at a glance.
 ### Gender Distribution of Astronaut Occupations
-![image](files://C:/Users/jillianquinn/Screenshots/Visualization.png)
+![Visualization](visualization.png)
