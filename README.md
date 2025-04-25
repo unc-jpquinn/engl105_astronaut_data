@@ -1,4 +1,4 @@
-# :rocket: Astronaut Occupation Counts by Gender :couple:
+# :rocket: Astronaut Occupation Counts by Gender
 This repository was created for a data exploration project using Python and pandas, based on a dataset originally provided by Tidy Tuesday. It focuses on breaking down astronaut occupation data by gender, then counting and comparing how often each occupation appears for male vs. female astronauts.
 
 ## :file_folder: What's in this repository?
