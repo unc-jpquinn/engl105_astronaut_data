@@ -42,7 +42,7 @@ This repository was created for a course project and isn’t actively maintained
 You’re welcome to [open an issue](../../issues) if you have a question, but responses aren’t guaranteed.
 
 ## :bust_in_silhouette: Maintainers & Contributors
-This repository is maintained by **unc-jpquinn** as part of an ENGL105 course project. All contributions were made by the repository owner.
+This repository is maintained by **unc-jpquinn** as part of Professor Gotzler's ENGL105 course project. All contributions were made by the repository owner.
 
 ## :envelope: License
 This project is for educational purposes and does not include a specific license. Please refer to the original Tidy Tuesday license terms for dataset use.
