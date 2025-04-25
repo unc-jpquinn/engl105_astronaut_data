@@ -16,6 +16,9 @@ This kind of exploration can:
 ## Where did the data come from?
 The data in this project comes from **Tidy Tuesday**, a weekly social data project hosted in the [R4DS (R for Data Science) GitHub repository](https://github.com/rfordatascience/tidytuesday). Each week, they release a new, publicly available dataset to encourage data exploration, visualization, and storytelling.
 >The astronaut data featured in this repository was pulled from one of these weekly challenges. It was originally shared in `.csv` format and includes information like astronaut names, missions, occupations, and more.
+To get started with the data, head over to the notebook
+>[`How_to_Create_the_Subset.ipynb`](./How_to_Create_the_Subset.ipynb)  
+It walks you through how the data was cleaned, filtered by gender, and turned into a clear table showing occupation counts for male and female astronauts.
 
 ## Visualization
 To highlight differences in astronaut occupations by gender, a **side-by-side bar chart** was created using **Tableau**. This visualization allows for an easy comparison of how frequently different occupations appear among male and female astronauts in the dataset.
@@ -23,3 +26,10 @@ The chart visually supports the analysis by making gendered trends in occupation
 ### Gender Distribution of Astronaut Occupations
 ![Visualization](https://github.com/user-attachments/assets/43204416-08d4-451b-8817-0cf38d19815b)
 >Bar Chart created with Tableau
+
+## Maintainers & Contributors
+This repository is maintained by **unc-jpquinn** as part of an ENGL105 course project. All contributions were made by the repository owner.
+
+## Need Help?
+This repository was created for a course project and isn’t actively maintained.  
+You’re welcome to [open an issue](../../issues) if you have a question, but responses aren’t guaranteed.
