@@ -19,6 +19,16 @@ The data in this project comes from **Tidy Tuesday**, a weekly social data proje
 To get started with the data, head over to the file `How to Create Subset`
 It walks you through how the data was cleaned, filtered by gender, and turned into a clear table showing occupation counts for male and female astronauts.
 
+## How do I get started?
+To get started with this project, you have a few options depending on your goals:
+1. **Learn how the data was cleaned and subsetted**:  
+   If you're interested in learning how to process data using Python, open the [`How to Create Subset.ipynb`](./How%20to%20Create%20Subset.ipynb) file. This Jupyter notebook walks you through the steps to filter the dataset by gender, count astronaut occupations, and clean the data for easier analysis.
+2. **Examine the original raw data**:  
+   If you prefer to work with the original dataset or just want to explore the data in its raw form, open the [`astronauts.csv`](./astronauts.csv) file. This will give you access to the full dataset with astronaut names, missions, occupations, and other details.
+3. **Explore the cleaned dataset**:  
+   If you're only interested in the results, you can check out the [`Sex_Occupation_Counts.csv`](./Sex_Occupation_Counts.csv) file, which contains the cleaned data showing the occupation counts separated by gender.
+Each of these options will help you interact with the data in different ways, depending on what you're looking to achieve!
+
 ## Visualization
 To highlight differences in astronaut occupations by gender, a **side-by-side bar chart** was created using **Tableau**. This visualization allows for an easy comparison of how frequently different occupations appear among male and female astronauts in the dataset.
 The chart visually supports the analysis by making gendered trends in occupation more apparent at a glance.
