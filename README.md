@@ -16,7 +16,7 @@ This kind of exploration can:
 ## :globe_with_meridians: Where did the data come from?
 The data in this project comes from **Tidy Tuesday**, a weekly social data project hosted in the [R4DS (R for Data Science) GitHub repository](https://github.com/rfordatascience/tidytuesday). Each week, they release a new, publicly available dataset to encourage data exploration, visualization, and storytelling.
 >The astronaut data featured in this repository was pulled from one of these weekly challenges. It was originally shared in `.csv` format and includes information like astronaut names, missions, occupations, and more.
-To get started with the data, head over to the file `How to Create Subset`
+To get started with the data, head over to the file [`How to Create Subset.ipynb`](https://github.com/unc-jpquinn/engl105_astronaut_data/blob/main/How%20To%20Create%20Subset.ipynb)
 It walks you through how the data was cleaned, filtered by gender, and turned into a clear table showing occupation counts for male and female astronauts.
 
 ## :open_file_folder: How do I get started?
