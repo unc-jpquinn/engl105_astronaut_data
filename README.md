@@ -37,9 +37,12 @@ The chart visually supports the analysis by making gendered trends in occupation
 ![Visualization](https://github.com/user-attachments/assets/43204416-08d4-451b-8817-0cf38d19815b)
 >Bar Chart created with Tableau
 
-## Maintainers & Contributors
-This repository is maintained by **unc-jpquinn** as part of an ENGL105 course project. All contributions were made by the repository owner.
-
 ## Need Help?
 This repository was created for a course project and isn’t actively maintained.  
 You’re welcome to [open an issue](../../issues) if you have a question, but responses aren’t guaranteed.
+
+## Maintainers & Contributors
+This repository is maintained by **unc-jpquinn** as part of an ENGL105 course project. All contributions were made by the repository owner.
+
+## License
+This project is for educational purposes and does not include a specific license. Please refer to the original Tidy Tuesday license terms for dataset use.
