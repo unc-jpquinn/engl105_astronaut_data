@@ -27,6 +27,7 @@ To get started with this project, you have a few options depending on your goals
    If you prefer to work with the original dataset or just want to explore the data in its raw form, open the [`astronauts.csv`](https://github.com/unc-jpquinn/engl105_astronaut_data/blob/main/astronauts.csv) file. This will give you access to the full dataset with astronaut names, missions, occupations, and other details.
 3. **Explore the cleaned dataset**:  
    If you're only interested in the results, you can check out the [`Sex_Occupation_Counts.csv`](https://github.com/unc-jpquinn/engl105_astronaut_data/blob/main/Sex_Occupation_Counts.csv) file, which contains the cleaned data showing the occupation counts separated by gender.
+
 Each of these options will help you interact with the data in different ways, depending on what you're looking to achieve!
 
 ## Visualization
