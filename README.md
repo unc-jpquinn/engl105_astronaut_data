@@ -37,7 +37,7 @@ The chart visually supports the analysis by making gendered trends in occupation
 ![Visualization](https://github.com/user-attachments/assets/43204416-08d4-451b-8817-0cf38d19815b)
 >Bar Chart created with Tableau
 
-## :question: Need Help?
+## :question: Getting Help
 This repository was created for a course project and isn’t actively maintained.  
 You’re welcome to [open an issue](../../issues) if you have a question, but responses aren’t guaranteed.
 
